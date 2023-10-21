@@ -5,7 +5,7 @@ namespace GustavoSantarosa\SetSchemaTrait;
 trait SetSchemaTrait
 {
     /**
-     * Initialize the soft deleting trait for an instance.
+     * Initialize the Set Schema trait for an instance.
      *
      * @return void
      */
