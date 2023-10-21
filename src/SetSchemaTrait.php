@@ -4,7 +4,7 @@ namespace GustavoSantarosa\SetSchemaTrait;
 
 trait SetSchemaTrait
 {
-    public function initializeSetSchema()
+    public function initializeTraits()
     {
         $this->setSchema();
     }
