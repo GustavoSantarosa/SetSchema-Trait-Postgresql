@@ -28,14 +28,21 @@ e chamar ela dentro de uma model.
 
 Pronto, ja é para estar funcionando.
 
-## 🎈 Utilizando
+## 🎈 Recursos
 
 Nele existem algumas ferramentas uteis.
 
 - BaseEnum:
   - Popula a variavel table, com o schema automaticamente.
 
-## ⛏️ Utilizado
+## 🧐 Outras Bibliotecas
+
+- [Enum-Basics-Extension](https://packagist.org/packages/gustavosantarosa/enum-basics-extension) - Utilizado para auxiliar nas Classes de Enums;
+- [Validate-Trait](https://packagist.org/packages/gustavosantarosa/validate-trait) - Bindar os Requests automaticamente de acordo com o caminho do Service Pattern;
+- [PerPage-Trait](https://packagist.org/packages/gustavosantarosa/perpage-trait) - Padronizar a quantidade do paginate na api inteira e definir uma quantidade máxima;
+- [Handler-Basics-Extension](https://packagist.org/packages/gustavosantarosa/handler-basics-extension) - Contem tratamento das principais exceções do laravel, e contem varios responses para lhe auxiliar;
+
+## ⛏️ Ferramentas
 
 - [php](https://www.php.net/) - linguagem
 
