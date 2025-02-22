@@ -21,7 +21,7 @@ Sempre que possivel ele sera atualizado, e esta aberto para a comunidade sugerir
 Para utilizar a classe, basta instalar ela utilizando o comando do composer:
 
 ```
-composer require quantum-tecnology/setschema-trait-postgresql
+composer require quantumtecnology/setschema-trait-postgresql
 ```
 
 e chamar ela dentro de uma model.
@@ -37,10 +37,10 @@ Nele existem algumas ferramentas uteis.
 
 ## 🧐 Outras Bibliotecas
 
-- [Enum-Basics-Extension](https://packagist.org/packages/quantum-tecnology/enum-basics-extension) - Utilizado para auxiliar nas Classes de Enums;
-- [Validate-Trait](https://packagist.org/packages/quantum-tecnology/validate-trait) - Bindar os Requests automaticamente de acordo com o caminho do Service Pattern;
-- [PerPage-Trait](https://packagist.org/packages/quantum-tecnology/perpage-trait) - Padronizar a quantidade do paginate na api inteira e definir uma quantidade máxima;
-- [Handler-Basics-Extension](https://packagist.org/packages/quantum-tecnology/handler-basics-extension) - Contem tratamento das principais exceções do laravel, e contem varios responses para lhe auxiliar;
+- [Enum-Basics-Extension](https://packagist.org/packages/quantumtecnology/enum-basics-extension) - Utilizado para auxiliar nas Classes de Enums;
+- [Validate-Trait](https://packagist.org/packages/quantumtecnology/validate-trait) - Bindar os Requests automaticamente de acordo com o caminho do Service Pattern;
+- [PerPage-Trait](https://packagist.org/packages/quantumtecnology/perpage-trait) - Padronizar a quantidade do paginate na api inteira e definir uma quantidade máxima;
+- [Handler-Basics-Extension](https://packagist.org/packages/quantumtecnology/handler-basics-extension) - Contem tratamento das principais exceções do laravel, e contem varios responses para lhe auxiliar;
 
 ## ⛏️ Ferramentas
 
