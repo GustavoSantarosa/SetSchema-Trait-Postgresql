@@ -1,5 +1,5 @@
 {
-  "name": "gustavosantarosa/setschema-trait-postgresql",
+  "name": "quantumcode/setschema-trait-postgresql",
   "license": "MIT",
   "homepage": "http://www.gustavosantarosa.esy.es/",
   "description": "SetSchema Trait Postgresql for Laravel",
@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "GustavoSantarosa\\SetSchemaTrait\\": "src/"
+      "QuantumCode\\SetSchemaTrait\\": "src/"
     }
   },
   "authors": [
@@ -26,7 +26,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "GustavoSantarosa\\SetSchemaTrait\\Provider\\SetSchemaTraitProvider"
+        "QuantumCode\\SetSchemaTrait\\Provider\\SetSchemaTraitProvider"
       ]
     }
   }
