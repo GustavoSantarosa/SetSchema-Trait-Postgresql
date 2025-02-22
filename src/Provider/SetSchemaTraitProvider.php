@@ -1,6 +1,6 @@
 <?php
 
-namespace QuantumCode\SetSchemaTrait\Provider;
+namespace QuantumTecnology\SetSchemaTrait\Provider;
 
 use Illuminate\Support\ServiceProvider;
 

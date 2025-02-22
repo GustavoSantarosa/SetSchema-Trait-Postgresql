@@ -1,6 +1,6 @@
 <?php
 
-namespace QuantumCode\SetSchemaTrait;
+namespace QuantumTecnology\SetSchemaTrait;
 
 trait SetSchemaTrait
 {
