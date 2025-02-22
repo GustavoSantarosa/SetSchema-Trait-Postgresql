@@ -1,6 +1,6 @@
 <?php
 
-namespace GustavoSantarosa\SetSchemaTrait\Provider;
+namespace QuantumCode\SetSchemaTrait\Provider;
 
 use Illuminate\Support\ServiceProvider;
 
